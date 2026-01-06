@@ -7,7 +7,7 @@ export const especialidades = [
     desc: "Diagnóstico y tratamiento de enfermedades comunes. Atención primaria y de urgencias para adultos con una visión integral.",
     bullets: ["Guardia 24/7 disponible.", "Recetas y chequeos generales."],
     cta: "Agendar consulta",
-    image: "/images/MedicaClinica.png",
+    image: "../images/MedicaClinica.png",
     icon: "stethoscope",
   },
   {
@@ -16,7 +16,7 @@ export const especialidades = [
     desc: "Atención médica especializada para bebés, niños y adolescentes. Acompañamos su crecimiento y desarrollo saludable.",
     bullets: ["Control de niño sano.", "Urgencias pediátricas."],
     cta: "Agendar consulta",
-    image: "/images/pediatria.png",
+    image: "../images/pediatria.png",
     icon: "baby",
   },
   {
@@ -25,7 +25,7 @@ export const especialidades = [
     desc: "Cuidado experto de la piel, cabello y uñas. Tratamientos para acné, manchas, y prevención de enfermedades cutáneas.",
     bullets: ["Mapeo de lunares.", "Tratamientos estéticos."],
     cta: "Ver especialistas",
-    image: "/images/dermatologo.png",
+    image: "../images/dermatologo.png",
     icon: "skin",
   },
   {
@@ -34,7 +34,7 @@ export const especialidades = [
     desc: "Cuidado integral de la salud femenina en todas las etapas de la vida, desde la adolescencia hasta la menopausia.",
     bullets: ["Control anual (PAP/Colpo).", "Planificación familiar."],
     cta: "Agendar turno",
-    image: "/images/ginecologa.png",
+    image: "../images/ginecologa.png",
     icon: "female",
   },
   {
@@ -43,7 +43,7 @@ export const especialidades = [
     desc: "Espacio seguro para tu bienestar emocional. Terapias para ansiedad, estrés o depresión con profesionales especializados.",
     bullets: ["Sesiones 100% online.", "Privacidad garantizada."],
     cta: "Hablar con un profesional",
-    image: "/images/Psicologo.png",
+    image: "../images/Psicologo.png",
     icon: "brain",
   },
   {
@@ -52,7 +52,7 @@ export const especialidades = [
     desc: "Especialistas en lesiones óseas y musculares. Recupera tu movilidad y mejora tu calidad de vida.",
     bullets: ["Lesiones deportivas.", "Tratamiento del dolor."],
     cta: "Consultar",
-    image: "/images/traumatologo.png",
+    image: "../images/traumatologo.png",
     icon: "bone",
   },
   {
@@ -61,7 +61,7 @@ export const especialidades = [
     desc: "Planes de alimentación personalizados basados en ciencia para alcanzar tus objetivos de peso y salud.",
     bullets: ["Plan personalizado.", "Educación alimentaria."],
     cta: "Empezar plan",
-    image: "/images/Nutricionista.png",
+    image: "../images/Nutricionista.png",
     icon: "nutrition",
   },
   {
@@ -70,7 +70,7 @@ export const especialidades = [
     desc: "Prevención, diagnóstico y tratamiento de enfermedades cardiovasculares. Cuidamos el motor de tu vida.",
     bullets: ["Riesgo quirúrgico.", "Hipertensión arterial."],
     cta: "Chequeo cardíaco",
-    image: "/images/Cardiologo.png",
+    image: "../images/Cardiologo.png",
     icon: "heart",
   }
 ];

@@ -60,7 +60,7 @@ export default function JoinDoctors() {
             {/* Contenedor de la Imagen con Marco */}
             <div className="relative overflow-hidden rounded-[40px] border-[12px] border-[#130b24] shadow-2xl">
               <img
-                src="/images/medico-hero.png" // Asegúrate de tener esta imagen
+                src="./images/medico-hero.png" // Asegúrate de tener esta imagen
                 alt="Profesional CelDoctor"
                 className="aspect-[4/3] w-full object-cover lg:aspect-auto lg:h-[500px]"
               />

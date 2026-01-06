@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 
+
+
 const fadeIn = {
   hidden: { opacity: 0, y: 20 },
   show: {
@@ -91,7 +93,7 @@ export default function Hero() {
             <div className="relative overflow-hidden rounded-[48px] border-[10px] border-[#1a0b35] shadow-2xl">
               {/* Pantalla de la App */}
               <img
-                src="../public/images/AppCeldoctor.png" // Asegúrate de que esta sea la captura de pantalla del celular
+                src="./images/AppCeldoctor.png" // Asegúrate de que esta sea la captura de pantalla del celular
                 alt="CelDoctor App"
                 className="w-full select-none"
                 draggable="false"

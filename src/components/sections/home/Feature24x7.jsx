@@ -93,7 +93,7 @@ export default function Feature24x7() {
             {/* Contenedor de la Imagen con esquinas muy redondeadas */}
             <div className="relative overflow-hidden rounded-[40px] border-[12px] border-[#1a0b35] shadow-2xl">
               <img
-                src="../public/images/DoctoraESPECIALIDADES.png"
+                src="./images/DoctoraESPECIALIDADES.png"
                 alt="Doctora CelDoctor"
                 className="aspect-[4/3] w-full object-cover lg:aspect-auto lg:h-[500px]"
               />

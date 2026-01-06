@@ -123,7 +123,7 @@ export default function Footer() {
             {/* Medios de Pago */}
             <div className="flex items-center gap-4 opacity-50 grayscale hover:grayscale-0 transition-all">
               <img src="/images/visa.svg" alt="Visa" className="h-4" />
-              <img src="../public/images/LogoMastercard.png" alt="Mastercard" className="h-6" />
+              <img src="/images/LogoMastercard.png" alt="Mastercard" className="h-6" />
               <img src="/images/amex.svg" alt="Amex" className="h-5" />
             </div>
           </div>

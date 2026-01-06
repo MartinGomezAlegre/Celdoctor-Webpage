@@ -52,7 +52,7 @@ export default function Stats() {
               className="relative h-full min-h-[450px] overflow-hidden rounded-[32px] border border-white/10 bg-[#130b24]"
             >
               <img
-                src="../public/images/imagendoctor.png" // Asegúrate que esta es la imagen del doctor con gafas
+                src="./images/imagendoctor.png" // Asegúrate que esta es la imagen del doctor con gafas
                 alt="Doctor"
                 className="absolute inset-0 h-full w-full object-cover opacity-90"
               />
